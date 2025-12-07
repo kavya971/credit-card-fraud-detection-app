@@ -149,3 +149,5 @@ Integration with streaming data for real-time fraud detection
 Experimentation with neural network-based models
 
 Enhanced feature engineering and anomaly detection
+
+LIVE:https://credit-card-fraud-detection-app-wvtw7rxyb4a76gtstw6l67.streamlit.app/
